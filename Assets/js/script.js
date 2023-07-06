@@ -1,5 +1,6 @@
 
 $(function () {
+
   // TODO: Add a listener for click events on the save button.
   $(".saveBtn").click(function () {
     var timeBlock = $(this).parent().attr("id");
